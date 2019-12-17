@@ -56,7 +56,7 @@
 
 ## Bash / Linux
 
-- Dotfiles
+- **Dotfiles**
   - My customization files for my development environment.  I mostly develop on a linux distrobution, currently Arch Linux.
   - Bash coding for loading my environmemt autonomously.
   - Vim / Tmux / i3-gaps
@@ -65,9 +65,10 @@
 
 ## Notable Projects
 
-- HipBox
+- **HipBox**
   - Link to github: [HipBox_v7](https://github.com/vindennl48/hipbox/tree/v7.0.0)
   - Link to trello: [Trello Board](https://trello.com/b/yz1ewgcr/hipbox-v7)
+  - Link to description: [Description](https://github.com/vindennl48/HipBox/blob/master/README.md)
   - Perhaps my biggest project to date, this has been a work in progress for years now.  I am currently in development of v7 and have recently recruited a second developer to help out with the project.
   - Other notable skills attached to this project that are not noted in the rest of this readme:
     - Ruby on Rails
@@ -76,11 +77,11 @@
 
 ## Older Projects
 
-- BomeMidi Converter (python)
+- **BomeMidi Converter (python)**
   - This project would take a dictionary object and compile it into a 'BomeMidi Translator' project file.  For the projects that I was working on, it would take me hours to generate a project file in this software, whereas if I had a python script to generate the project file for me, I could cut that time drastically.
   - 'BomeMidi Translator' is a program that converts midi notes into triggerable events on a computer.
   - Link to github: [BomeMidi](https://github.com/vindennl48/bome_midi)
-- BinPacker (java)
+- **BinPacker (java)**
   - This project was designed to help maximize profit by fitting as many current orders as possible onto a sheet of aluminum for production.  (Used at ClampuSystems.com)
   - Created a few years ago, It was my first time diving into java and into a problem like binpacking.
   - Link to code: [binpacker](https://github.com/vindennl48/BinPacker_DEPRECATED/tree/master/BinPacker/src/binpacker)
